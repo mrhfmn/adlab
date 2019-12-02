@@ -1,0 +1,26 @@
+[
+ {
+   "name": "TIMESTAMP",
+   "type": "DATETIME"
+ },
+ {
+   "name": "REGION",
+   "type": "STRING"
+ },
+ {
+   "name": "DEVICE",
+   "type": "STRING"
+ },
+ {
+   "name": "KEYWORD",
+   "type": "STRING"
+ },
+ {
+   "name": "URL",
+   "type": "STRING"
+ },
+ {
+   "name": "POSITION",
+   "type": "INTEGER"
+ }
+]
