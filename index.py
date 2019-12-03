@@ -65,7 +65,7 @@ def launch_adslab(event, context):
 
 
     base_url = "https://www.serprobot.com/api/v1/api.php?api_key="
-    api_key = "e81a7d31aea7a8573a95a9979d61ccad"
+    api_key = "ENTER API KEY"
     region = "www.google.co.uk"
     devices = ["desktop", "mobile"]
 
